@@ -1,6 +1,6 @@
 - 👋 Jay Here 🤝
-- 🌐 NodeJS Dev 🔸
-- 👩‍💻 Learning Python AI/ML 📐
+- 🌐 Ex - NodeJS Dev 🔸
+- 👩‍💻 Now learning Python AI/ML 📐
 
 <!---
 Jay10x/Jay10x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
