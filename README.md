@@ -2,7 +2,6 @@
 code/work in NodeJs and python. 
 
 
-- 👩‍💻 active learner of AI/ML 📐
 
 
 - 🤹Skills/Tech 
